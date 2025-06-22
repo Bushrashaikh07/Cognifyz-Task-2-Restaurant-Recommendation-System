@@ -1,18 +1,18 @@
-# 🍽️ Restaurant Recommendation System
+#  Restaurant Recommendation System
 
-### ✅ Task 2 – Machine Learning Internship @ Cognifyz Technologies
+### Task 2 – Machine Learning Internship @ Cognifyz Technologies
 
 This project is a **content-based restaurant recommendation system** developed as part of Task 2 during my internship at **Cognifyz Technologies**.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To build a system that recommends restaurants based on user preferences such as cuisine type and price range using **TF-IDF** and **cosine similarity**.
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 - ✅ Cleaned and preprocessed restaurant data
 - ✅ Combined cuisine and city info into a new 'Tags' feature
@@ -35,7 +35,7 @@ To build a system that recommends restaurants based on user preferences such as 
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - `Python`
 - `Pandas`
@@ -45,7 +45,7 @@ To build a system that recommends restaurants based on user preferences such as 
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. User provides a **cuisine keyword** and a **price range** (1–4).
 2. The system filters relevant restaurants.
@@ -54,32 +54,32 @@ To build a system that recommends restaurants based on user preferences such as 
 
 ---
 
-## 📊 Sample Output
+##  Sample Output
 
 ```bash
-🍽️ Sample Recommendation for: North Indian | Price Range: 2
+Sample Recommendation for: North Indian | Price Range: 2
 
 | Restaurant Name  | Cuisines         | City     | Price range | Aggregate rating |
 |------------------|------------------|----------|--------------|------------------|
 | Taj Foods        | North Indian     | Delhi    | 2            | 4.5              |
 | Punjab Grill     | North Indian     | Delhi    | 2            | 4.3              |
 
-📈 Plot
+## Plot
 Visual representation of recommended restaurants based on their ratings.
 
 
-🙌 Acknowledgement
+## Acknowledgement
 Thanks to Cognifyz Technologies for providing this internship opportunity.
 
- Links
+## Links
 📌 LinkedIn Post
 
 📁 Notebook File
 
-🧑‍💻 Author
+## Author
 Bushra Shaikh
-🌟 Machine Learning Intern
-📅 June 2025 – Cognifyz Technologies
-#AIJourneyWithBushra
+** Machine Learning Intern **
+** June 2025 – Cognifyz Technologies**
+## MLJourneyWithBushra
 
 
