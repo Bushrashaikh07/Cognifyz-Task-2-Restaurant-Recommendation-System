@@ -63,3 +63,23 @@ To build a system that recommends restaurants based on user preferences such as 
 |------------------|------------------|----------|--------------|------------------|
 | Taj Foods        | North Indian     | Delhi    | 2            | 4.5              |
 | Punjab Grill     | North Indian     | Delhi    | 2            | 4.3              |
+
+📈 Plot
+Visual representation of recommended restaurants based on their ratings.
+
+
+🙌 Acknowledgement
+Thanks to Cognifyz Technologies for providing this internship opportunity.
+
+ Links
+📌 LinkedIn Post
+
+📁 Notebook File
+
+🧑‍💻 Author
+Bushra Shaikh
+🌟 Machine Learning Intern
+📅 June 2025 – Cognifyz Technologies
+#AIJourneyWithBushra
+
+
